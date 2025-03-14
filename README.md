@@ -9,7 +9,7 @@
 
 ### Hi there, I'm Raven [ravenCrown0627][webdev] 👋
 
-## I'm an a Software Engineer!
+## I'm a Software Engineer!
 - 🔭 Studied B.S Communication and Computer System Engineering at University Putra Malaysia (UPM)
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2025 Goals: Spend more time to improve my coding optimization skills and AI related skill set
