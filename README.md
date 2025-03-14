@@ -9,12 +9,11 @@
 
 ### Hi there, I'm Raven [ravenCrown0627][webdev] 👋
 
-## I'm a Student!
-- 🔭 I’m currently studying B.S Communication and Computer System Engineering at University Putra Malaysia(UPM)
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Attent most of the programming contest and grab an opportunity for an internship 
-- ⚡ Fun fact: I love anime and J-Pop
+## I'm an a Software Engineer!
+- 🔭 Studied B.S Communication and Computer System Engineering at University Putra Malaysia (UPM)
+- 👯 I’m looking to collaborate with other developers
+- 🥅 2025 Goals: Spend more time to improve my coding optimization skills and AI related skill set
+- ⚡ Fun fact: I love Anime and J-Pop
 
 ### Connect with me:
 
