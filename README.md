@@ -26,7 +26,3 @@ I'm passionate about software development, with a strong focus on **Electronic D
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravenCrown0627&layout=compact&theme=light&langs_count=6&hide_border=true" width="45%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravenCrown0627&theme=light&hide_border=true" width="45%"/>
 </div>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ravenCrown0627&theme=default&hide_border=true" width="100%"/>
-</p>
