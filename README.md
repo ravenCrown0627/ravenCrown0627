@@ -19,7 +19,7 @@ I'm passionate about software development, with a strong focus on **Electronic D
 ![In Progress](https://img.shields.io/badge/In_Progress-Learning_AI_&_Machine_Learning-green?style=badge&logo=progress&logoColor=white)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ravenCrown0627&theme=dracula&area=true&hide_border=true&custom_title=Last%2010%20Days%20Activity" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ravenCrown0627&theme=dracula&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%"/>
 </p>
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
