@@ -1,6 +1,6 @@
 # 😎 Hi, I'm **Zhi Lin Tan**
 
-👾 **Software Engineer | EDA Enthusiast | Open-Source Contributor**  
+👾 **Junior Software Engineer | EDA Enthusiast | Open-Source Contributor**  
 I'm passionate about software development, with a strong focus on **Electronic Design Automation (EDA) toolkits**. I enjoy exploring and contributing to open-source projects, optimizing algorithms, and improving design workflows.
 
 - 🎓 **Alumnus Universiti Putra Malaysia (UPM)** - B.S. in Computer and Communication Systems Engineering with Honours
