@@ -21,6 +21,6 @@ I'm passionate about software development, with a strong focus on **Electronic D
 [![ravenCrown0627's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ravenCrown0627&bg_color=ffffff&color=000000&line=26408b&point=6e9cbf&area_color=26408b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravenCrown0627&layout=compact&theme=light&langs_count=6&hide_border=true" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravenCrown0627&layout=compact&theme=light&hide=verilog,tcl&langs_count=6&hide_border=true" width="45%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravenCrown0627&theme=light&hide_border=true" width="45%"/>
 </div>
