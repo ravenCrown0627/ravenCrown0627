@@ -1,6 +1,6 @@
 # 😎 Hi, I'm **Zhi Lin Tan**
 
-👾 **Junior Software Engineer | EDA Enthusiast | Open-Source Contributor**  
+👾 **Software Engineer | EDA Enthusiast | Open-Source Contributor**  
 I'm passionate about software development, with a strong focus on **Electronic Design Automation (EDA) toolkits**. I enjoy exploring and contributing to open-source projects, optimizing algorithms, and improving design workflows.
 
 - 🎓 **Alumnus Universiti Putra Malaysia (UPM)** - B.S. in Computer and Communication Systems Engineering with Honours
@@ -16,11 +16,6 @@ I'm passionate about software development, with a strong focus on **Electronic D
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
-![In Progress](https://img.shields.io/badge/In_Progress-Learning_AI_&_Machine_Learning-green?style=badge&logo=progress&logoColor=white)
+![In Progress](https://img.shields.io/badge/In_Progress-Learning_C++_Optimization-yellow?style=badge&logo=progress&logoColor=white)
 
 [![ravenCrown0627's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ravenCrown0627&custom_title=Contribution's%20Graph&days=20&bg_color=ffffff&color=000000&line=26408b&point=6e9cbf&area_color=26408b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravenCrown0627&layout=compact&theme=light&hide=verilog,tcl&langs_count=6&hide_border=true" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravenCrown0627&theme=light&hide_border=true" width="45%"/>
-</div>
